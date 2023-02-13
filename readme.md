@@ -10,7 +10,8 @@ Using the power of DOM or Document Object Model have created a web app using htm
 
 ## 🚩 Demo In Laptop Screen
 
-https://user-images.githubusercontent.com/72431298/218531130-d3a2ad67-ce94-4f0a-bd0e-30ff9fc55c7a.gif
+![Untitled design](https://user-images.githubusercontent.com/72431298/218531672-c8163792-bde8-4fee-948f-7bbad13c6b49.gif)
+
 
 
 ## Depolyed Link 
